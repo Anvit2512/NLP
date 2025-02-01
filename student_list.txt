@@ -1,0 +1,5 @@
+John Doe;johndoe@gmail.com;01/15/2000
+Jane Smith;janesmith@gmail.com;04/22/1998
+Robert Brown;robertbrown@yahoo.com;09/30/2001
+Emily White;emilywhite@hotmail.com;06/17/1999
+Michael Johnson;michaeljohnson@outlook.com;02/04/2000
